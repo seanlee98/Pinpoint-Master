@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PinPoint</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_rationale_location">Pretty Please</string>
+    <string name="permission_required_toast">Pretty Please</string>
+    <string name="location_permission_denied">Pretty Please</string>
+    <string name="action_settings">Settings</string>
+</resources>

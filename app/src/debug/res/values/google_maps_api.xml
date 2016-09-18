@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=60:EB:6C:83:85:84:18:D0:5D:87:A3:1B:C4:7B:1D:5A:F2:8F:4E:43%3Bcom.example.quanticsymphonia.pinpoint
+
+    You can also add your credentials to an existing key, using this line:
+    60:EB:6C:83:85:84:18:D0:5D:87:A3:1B:C4:7B:1D:5A:F2:8F:4E:43;com.example.quanticsymphonia.pinpoint
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBJhn0LcIELnMDPBfX6sy-8JqDWXAjRwcs</string>
+</resources>
